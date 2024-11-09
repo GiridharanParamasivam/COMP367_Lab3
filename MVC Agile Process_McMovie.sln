@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Agile Process_McMovie", "MVC Agile Process_McMovie.csproj", "{415DB038-1737-4606-B622-3E2499D348BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{415DB038-1737-4606-B622-3E2499D348BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415DB038-1737-4606-B622-3E2499D348BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415DB038-1737-4606-B622-3E2499D348BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415DB038-1737-4606-B622-3E2499D348BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D79D0CE8-79FB-46EA-B5FF-6048D0EB0BBD}
+	EndGlobalSection
+EndGlobal
