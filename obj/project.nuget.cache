@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RdcNAOhhQXL2ApInJ+r8zWXCQu/HdlpzikZFdj6AtH1q5CSu8I3V77K0NLAij/qH4YVs+IVGz8pO5+fS7G1A/Q==",
+  "dgSpecHash": "2Z6yCSGWe80M9/LTk2PTWRE0uU+ZpMtn2/nbCLI2szBLXT3WQFhniaFTSMbAmpQ7OvgsVxLSS4m4yvu5js1dTw==",
   "success": true,
-  "projectFilePath": "E:\\MVC Agile Process_McMovie\\MVC Agile Process_McMovie.csproj",
+  "projectFilePath": "C:\\Users\\girid\\source\\repos\\GiridharanParamasivam\\COMP367_Lab3\\MVC Agile Process_McMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\girid\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\girid\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("b795a93c-8ef7-4707-a6e3-dd379fb7c7a5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC Agile Process_McMovie")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5c16a7dc705c30f4617881d2f2be987ed4f842b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC Agile Process_McMovie")]

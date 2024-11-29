@@ -257,3 +257,15 @@ E:\MVC Agile Process_McMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Sec
 E:\MVC Agile Process_McMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 E:\MVC Agile Process_McMovie\obj\Debug\net8.0\MVC Agile Process_McMovie.csproj.AssemblyReference.cache
 E:\MVC Agile Process_McMovie\obj\Debug\net8.0\MVC Agil.C8BF259B.Up2Date
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\MVC Agile Process_McMovie.csproj.AssemblyReference.cache
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\MVC Agile Process_McMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\MVC Agile Process_McMovie.AssemblyInfoInputs.cache
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\MVC Agile Process_McMovie.AssemblyInfo.cs
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\MVC Agile Process_McMovie.csproj.CoreCompileInputs.cache
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\MVC Agile Process_McMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\MVC Agile Process_McMovie.RazorAssemblyInfo.cache
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\MVC Agile Process_McMovie.RazorAssemblyInfo.cs
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\MVC Agile Process_McMovie.sourcelink.json
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\MVC Agile Process_McMovie.dll
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\refint\MVC Agile Process_McMovie.dll
+C:\Users\girid\source\repos\GiridharanParamasivam\COMP367_Lab3\obj\Debug\net8.0\MVC Agile Process_McMovie.pdb

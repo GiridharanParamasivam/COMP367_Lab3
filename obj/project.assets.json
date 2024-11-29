@@ -7808,11 +7808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MVC Agile Process_McMovie\\MVC Agile Process_McMovie.csproj",
+      "projectUniqueName": "C:\\Users\\girid\\Source\\Repos\\GiridharanParamasivam\\COMP367_Lab3\\MVC Agile Process_McMovie.csproj",
       "projectName": "MVC Agile Process_McMovie",
-      "projectPath": "E:\\MVC Agile Process_McMovie\\MVC Agile Process_McMovie.csproj",
+      "projectPath": "C:\\Users\\girid\\Source\\Repos\\GiridharanParamasivam\\COMP367_Lab3\\MVC Agile Process_McMovie.csproj",
       "packagesPath": "C:\\Users\\girid\\.nuget\\packages\\",
-      "outputPath": "E:\\MVC Agile Process_McMovie\\obj\\",
+      "outputPath": "C:\\Users\\girid\\Source\\Repos\\GiridharanParamasivam\\COMP367_Lab3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\girid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7822,8 +7822,7 @@
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://pkgs.dev.azure.com/gparamas0486/_packaging/gparamas0486/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
